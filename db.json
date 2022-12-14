@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 59208101,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new best friend",
+      "location": "Woof Town",
+      "date": "September 1, 2022",
+      "time": "13:00",
+      "petsAllowed": true,
+      "organizer": "Bruno Campos"
+    },
+    {
+      "id": 5978101,
+      "category": "animal welfare",
+      "title": "Fish Adoption Day",
+      "description": "Find your moist friend",
+      "location": "Glub Town",
+      "date": "August 3, 2022",
+      "time": "07:00",
+      "petsAllowed": true,
+      "organizer": "Marina Campos"
+    },
+    {
+      "id": 59208301,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new barbecue friend",
+      "location": "Meow Town",
+      "date": "August 12, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Cynthia Coutinho"
+    }
+  ]
+}
